@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tadexwebdesign.github.io
+Token: 791361b457ab50f32c3a165939706d29dbf605ad5a5be81894dccc62e67c5b76
